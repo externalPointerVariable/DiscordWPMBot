@@ -1,9 +1,0 @@
-{
-    "build": {
-      "base": "myapp",
-      "cmd": "npm install"
-    },
-    "start": "node server.js",
-    "root": "myapp"
-  }
-  
