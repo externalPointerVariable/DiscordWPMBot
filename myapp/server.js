@@ -1,8 +1,9 @@
 const express = require('express');
 const path = require('path');
+const config = require('./config/config.js');
 
 const app = express();
-const port = 3000;
+const port = config.port;
 
 app.use(express.static(path.join(__dirname, 'public')));
 
