@@ -1,0 +1,8 @@
+{
+    "build": {
+      "base": "myapp",
+      "cmd": "npm install"
+    },
+    "start": "node myapp/server.js"
+  }
+  
