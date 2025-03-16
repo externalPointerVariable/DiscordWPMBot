@@ -3,6 +3,7 @@
       "base": "myapp",
       "cmd": "npm install"
     },
-    "start": "node myapp/server.js"
+    "start": "node server.js",
+    "root": "myapp"
   }
   
