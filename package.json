@@ -24,9 +24,9 @@
   },
   "homepage": "https://github.com/externalPointerVariable/DiscordWPMBot#readme",
   "dependencies": {
-    "discord.js": "^13.17.1",
+    "discord.js": "^14.26.2",
+    "dotenv": "^17.4.0",
     "express": "^5.2.1",
-    "mongoose": "^9.3.1",
-    "n8n": "^2.8.4"
+    "node-fetch": "^3.3.2"
   }
 }
